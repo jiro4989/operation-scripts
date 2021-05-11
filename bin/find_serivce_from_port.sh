@@ -105,4 +105,4 @@ search_service "${port}" | awk '1<NR{print $1}' | sort | uniq | while read -r cm
   find_service_by_supervisord "$cmd"
 done
 
-info "${this_script} was finished."
+info "${this_script} was completed."
