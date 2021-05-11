@@ -1,0 +1,12 @@
+= operation-scripts
+:toc: left
+:sectnums:
+
+サーバ保守運用で使う運用スクリプト類。
+
+基本的にすべて bash で動くように実装されている。
+
+|==========
+| スクリプト名 | 説明
+| find_serivce_from_port.sh | ポート番号から自動起動サービス名とサービスを管理しているdaemonを見つける
+|==========
