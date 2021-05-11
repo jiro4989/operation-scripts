@@ -13,5 +13,5 @@
 | check_firewall.sh | ファイアウォール設定を行っているサービスすべてのポート制限状況を出力する
 | watch_process.sh | プロセス名で検索し、定期的に画面を再描画する。watchコマンドがあればwatchコマンドを使う。無かった場合も動作する
 | download.sh | 利用可能なスクリプトを使ってURLのファイルをダウンロードする
-| cp_and_create_backup.sh | ファイルをコピーする時に必ずバックアップを作成する
+| cp_and_create_backup.sh | TODO ファイルをコピーする時に必ずバックアップを作成する
 |==========
